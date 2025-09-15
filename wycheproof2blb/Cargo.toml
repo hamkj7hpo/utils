@@ -7,7 +7,7 @@ description = "A utility for converting Wycheproof test vectors to the blobby fo
 repository = "https://github.com/RustCrypto/utils"
 keywords = ["test", "Wycheproof"]
 categories = ["cryptography", "no-std"]
-edition = "2024"
+edition = "2021"
 rust-version = "1.85"
 
 [dependencies]
